@@ -1,0 +1,18 @@
+[2026-05-09 01:34:53] EKLEME | Takip No: PLX-20260509-I9E0, Plaka: 61BY999
+[2026-05-09 01:35:19] ARŞİVLEME | ID: 2 arşive taşındı.
+[2026-05-09 01:35:26] GÜNCELLEME | ID: 4 durumu Elleçleniyor yapıldı.
+[2026-05-09 01:35:41] GÜNCELLEME | ID: 3 durumu Çıkışa Hazır yapıldı.
+[2026-05-09 01:35:45] GÜNCELLEME | ID: 4 durumu Gümrükte yapıldı.
+[2026-05-09 01:35:50] GÜNCELLEME | ID: 4 durumu Giriş Yaptı yapıldı.
+[2026-05-09 01:35:53] GÜNCELLEME | ID: 4 durumu Gümrükte yapıldı.
+[2026-05-09 01:48:27] GÜNCELLEME | ID: 4 durumu Elleçleniyor yapıldı.
+[2026-05-09 01:52:27] ARŞİVDEN ÇIKARMA | ID: 2 arşivden çıkarıldı.
+[2026-05-09 01:52:28] ARŞİVDEN ÇIKARMA | ID: 1 arşivden çıkarıldı.
+[2026-05-09 01:58:12] ARŞİVLEME | ID: 1 arşive taşındı.
+[2026-05-09 01:58:12] ARŞİVLEME | ID: 2 arşive taşındı.
+[2026-05-09 01:58:12] ARŞİVLEME | ID: 3 arşive taşındı.
+[2026-05-09 01:58:12] ARŞİVLEME | ID: 4 arşive taşındı.
+[2026-05-09 01:58:23] ARŞİVDEN ÇIKARMA | ID: 4 arşivden çıkarıldı.
+[2026-05-09 01:58:24] ARŞİVDEN ÇIKARMA | ID: 3 arşivden çıkarıldı.
+[2026-05-09 01:58:25] ARŞİVDEN ÇIKARMA | ID: 2 arşivden çıkarıldı.
+[2026-05-09 01:58:25] ARŞİVDEN ÇIKARMA | ID: 1 arşivden çıkarıldı.
